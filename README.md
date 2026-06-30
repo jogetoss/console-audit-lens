@@ -1,6 +1,8 @@
 # Description
 
-This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
+Console Audit Lens is an extension of Joget’s built-in Audit Trail module. It gives a cleaner, easier view of audit logs with simple filters like keyword, user, area, and date range. It also adds CSV export so logs can be shared or reviewed outside Joget. The goal is to help admins find what they need faster and make audit review more practical.
+
+To setup and configure this plugin, please see the [documentation](https://kb.joget.org/jw/web/userview/jdocs/docs/sandbox/console-audit-lens).
 
 # Getting Help
 
